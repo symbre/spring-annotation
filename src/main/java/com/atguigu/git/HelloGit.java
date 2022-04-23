@@ -11,6 +11,6 @@ public class HelloGit {
         System.out.println("push test2");
         System.out.println("pull test");
         System.out.println("pull test2");
-
+        System.out.println("gitee test");
     }
 }
